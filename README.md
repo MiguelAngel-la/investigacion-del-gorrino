@@ -1,6 +1,6 @@
 # investigacion-del-gorrino
 
- 
+Universidad de COlima
 
 Facultad: Facultad de Ingeniería Mecánica y Eléctrica (FIME)
 
